@@ -156,6 +156,15 @@ now working on formating the home page for the website
 3:30 
 added the images in the wwwroot folder  by creating a new folder named img and added the copyright free images
 
+3:40
+formatted the index page and added images and content
+
+4:15
+added content to the aboutus page
+
+4:20
+finished the coding and now i am uploading it to github and publshling it into azure 
+
 
 
 
